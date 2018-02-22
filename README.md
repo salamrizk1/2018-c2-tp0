@@ -1,6 +1,6 @@
 # 2018 c2 tp0 : Prise en Main
 
-
+modifier sur github
 
 # Prise en main TP cycle C (deuxième semestre) GLG204 et SMB215
 
